@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tictactoe</string>
+    <string name="Header">Tictactoe</string>
+    <string name="StartButton">Start</string>
+    <string name="HeaderName">Choose your gamemode</string>
+    <string name="GamemodeButton1">PvP</string>
+    <string name="GamemodeButton2">PvC</string>
+    <string name="Player1">First player</string>
+    <string name="Player2">Second player</string>
+    <string name="PlayerNameHeader">Enter player names</string>
+    <string name="GridForGame">Grid for the game</string>
+</resources>
